@@ -1,8 +1,5 @@
 package level2;
 
-import java.util.Arrays;
-import java.util.stream.Stream;
-
 // https://school.programmers.co.kr/learn/courses/30/lessons/68936
 public class 쿼드압축후개수세기 {
     public int[] solution(int[][] arr) {
